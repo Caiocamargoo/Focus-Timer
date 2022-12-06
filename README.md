@@ -1,7 +1,7 @@
 # RocketSeat Explore!!
 
-![preview](/githubimg/img01.png)
-![preview](/githubimg/img02.png)
+![preview](/githubimg/img001.png)
+![preview](/githubimg/img002.png)
 
 Desafio do Stage 5.
 
